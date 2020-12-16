@@ -1,0 +1,29 @@
+
+
+
+.button {
+    background-color: #f55;
+    margin-top: 10px;
+    border-radius: 100%;
+    font-size: 2em;
+    padding: 20px;
+    width: 10rem;
+    height: 10rem;
+    font-weight: bold;
+    color: white;
+    border: 10px inset #a00;
+    transition: all 0.3s;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.button:active {
+    background-color: #ddd;
+    color: #555;
+}
+
+.container {
+    text-align: center;
+}

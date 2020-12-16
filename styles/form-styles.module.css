@@ -1,0 +1,48 @@
+
+
+.inputLg {
+    font-size: 2rem;
+}
+
+.input {
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: white;
+    color: #aaa;
+    padding: 5px 10px;
+    font-weight: normal;
+    outline: none;
+}
+
+.input:focus {
+    border: 1px solid #555;
+}
+
+.textarea {
+    resize: none;
+    display: block;
+    width: 100%;
+    min-height: 10rem;
+    font-size: 1rem;
+}
+
+.button {
+    font-size: 2rem;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    background-color: white;
+    color: #555;
+    padding: 10px 20px;
+}
+
+.button:active {
+    background-color: #eee;
+}
+
+.alertSuccess {
+    color: mediumseagreen;
+}
+
+.alertError {
+    color: #f55;
+}

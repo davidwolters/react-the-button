@@ -1,0 +1,22 @@
+
+
+
+.container {
+    text-align: center;
+}
+
+.link, .linkCurrent {
+    color: #0070f3;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.link:active {
+    color: #0162d2;
+}
+
+
+.linkCurrent {
+    color: #0162d2 !important;
+    font-weight: bold;
+}

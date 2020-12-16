@@ -1,0 +1,27 @@
+
+
+
+.container {
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px #eee;
+    position: relative;
+    padding: 10px;
+}
+
+.color {
+    border-radius: 5px;
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    left: 1rem;
+    border: 1px solid #ccc;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.title {
+    margin-left: 4rem;
+}
